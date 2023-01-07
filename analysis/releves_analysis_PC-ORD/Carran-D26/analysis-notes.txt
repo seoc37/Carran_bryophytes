@@ -1,0 +1,83 @@
+Project directory: C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26
+
+Main matrix releves_species_Domin26_no_single.csv
+Second Matrix releves_env_data.csv 
+
+
+STEP 1 - NMDS
+
+5 spp, two removed as only found at one location (Sphagnum and Aulacomnium)
+using Domin 2.6 values as needed for indicator spp
+54 relevés included
+
+autopilot/slow&thorough = 250 runs real data + 250 runs randomized data
+Bray-Curtis (Sørensen) distance
+title "Carran-D26: Carran bryophytes Aug 2020 NMS, one-occurence spp. removed, Domin2.6"
+
+3D solution.
+      10.98743 = final stress for 3-dimensional solution
+       0.00190 = final instability
+
+
+
+main matrix saved as work1-D26.wk1
+second matrix saved as work2-nms-D26.wk1
+results saved as results-nms-D26.txt
+Scree file saved as nms-scree-graph.wmf, data in nms-scree-data.scr
+graphrow-nms-D26.gph and copied to graphrow-nms.txt
+graphcol-nms-D26.gph and copied to graphcol-nms.txt
+
+Saved as carran1.prj
+
+
+r2 values from Graph > Ordination
+
+            R Squared
+Axis   Increment   Cumulative
+ 1       .537        .537
+ 2       .208        .746
+ 3       .174        .919
+
+ 
+saved as  r2_values.txt
+
+Outliers: using Summary > Outlier analysis
+two relevés C30 and C18 more than 2 std dev from mean distance
+C30 = 2.05366 C18 = 2.04378
+Saved as outliers.txt
+Where are these located? Anything interesting about the spp present, water, etc?
+
+3D graphs saved as BMP, for water and VegCom scatterplots
+
+2D graphs as follows:
+
+Dominance curve - saved as plots\dominance-1.wmf and data in dominance-results.txt
+Is the data able to give this plot (Domin or Domin2.6)? Maybe need better abundance info for it?
+
+Overlay of main ordination with each species Domin value for each pair of axes, e.g. Cc-1-3.wmf in 
+plots\overlays-by-sp-on-main-ordination (15 plots, for 5 species with 3 axis pairs each)
+
+Overlays of spp in ord space in plots\overlays-by-sp-on-main-ordination
+
+Overlays of 4 environmental variables in plots\env-variables-overlays
+
+
+
+STEP 2 - CLUSTER ANALYSIS
+
+Results saved in cluster-analysis.txt. Setup as per Waldren notes.
+
+Dendrogram plots saved in plots\dendrograms for all 12 groups, WMF and .den data file.
+
+2 way dendrograms for all groups in plots\2way_dendrograms, WMF and .twd data files
+
+Ordination v groups in plots\clusters\g?? - graphs as WMF with axis coordinates
+
+
+
+STEP 3 - INDICATOR SPECIES ANALYSIS
+
+random seed = 2305
+
+output group??.txt files saved in carran-D26\indicator-species-analysis\
+

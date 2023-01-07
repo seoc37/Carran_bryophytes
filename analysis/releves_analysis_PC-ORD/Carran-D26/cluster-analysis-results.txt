@@ -1,0 +1,632 @@
+
+
+
+*********************** Hierarchical Cluster Analysis ***********************
+PC-ORD, 5.0                 
+16 Jul 2022, 16:46
+
+Carran-D26: Carran bryophytes Aug 2020 NMS, one-occurence spp. removed, Domin2.6
+
+Linkage method:    FLEXIBLE BETA     
+Distance measure:  Sorensen (Bray-Curtis)        
+Flexible beta value selected is -0.250
+
+
+------------- C L U S T E R   C Y C L E     1 -------------
+
+ Combined group     4   into group     1   at level 0.0000E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     1      2
+                 C01      C04     
+
+------------- C L U S T E R   C Y C L E     2 -------------
+
+ Combined group    39   into group     5   at level 0.0000E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     5      2
+                 C05      C43     
+
+------------- C L U S T E R   C Y C L E     3 -------------
+
+ Combined group    13   into group     6   at level 0.0000E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     6      2
+                 C06      C14     
+
+------------- C L U S T E R   C Y C L E     4 -------------
+
+ Combined group    19   into group     6   at level 0.0000E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     6      3
+                 C06      C14      C20     
+
+------------- C L U S T E R   C Y C L E     5 -------------
+
+ Combined group    31   into group     6   at level 0.0000E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     6      4
+                 C06      C14      C20      C32     
+
+------------- C L U S T E R   C Y C L E     6 -------------
+
+ Combined group    10   into group     8   at level 0.0000E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     8      2
+                 C09      C11     
+
+------------- C L U S T E R   C Y C L E     7 -------------
+
+ Combined group    20   into group    11   at level 0.0000E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    11      2
+                 C12      C21     
+
+------------- C L U S T E R   C Y C L E     8 -------------
+
+ Combined group    23   into group    11   at level 0.0000E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    11      3
+                 C12      C21      C24     
+
+------------- C L U S T E R   C Y C L E     9 -------------
+
+ Combined group    25   into group    11   at level 0.0000E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    11      4
+                 C12      C21      C24      C26     
+
+------------- C L U S T E R   C Y C L E    10 -------------
+
+ Combined group    27   into group    11   at level 0.0000E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    11      5
+                 C12      C21      C24      C26      C28     
+
+------------- C L U S T E R   C Y C L E    11 -------------
+
+ Combined group    24   into group    15   at level 0.0000E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    15      2
+                 C16      C25     
+
+------------- C L U S T E R   C Y C L E    12 -------------
+
+ Combined group    26   into group    21   at level 0.0000E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    21      2
+                 C22      C27     
+
+------------- C L U S T E R   C Y C L E    13 -------------
+
+ Combined group    37   into group    30   at level 0.0000E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    30      2
+                 C31      C41     
+
+------------- C L U S T E R   C Y C L E    14 -------------
+
+ Combined group    41   into group    30   at level 0.0000E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    30      3
+                 C31      C41      C45     
+
+------------- C L U S T E R   C Y C L E    15 -------------
+
+ Combined group    44   into group    30   at level 0.0000E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    30      4
+                 C31      C41      C45      C48     
+
+------------- C L U S T E R   C Y C L E    16 -------------
+
+ Combined group    48   into group    30   at level 0.0000E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    30      5
+                 C31      C41      C45      C48      C54     
+
+------------- C L U S T E R   C Y C L E    17 -------------
+
+ Combined group    49   into group    30   at level 0.0000E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    30      6
+                 C31      C41      C45      C48      C54      C57     
+
+------------- C L U S T E R   C Y C L E    18 -------------
+
+ Combined group    16   into group     6   at level 2.9408E-06
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     6      5
+                 C06      C14      C20      C32      C17     
+
+------------- C L U S T E R   C Y C L E    19 -------------
+
+ Combined group    40   into group     7   at level 8.4704E-05
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     7      2
+                 C08      C44     
+
+------------- C L U S T E R   C Y C L E    20 -------------
+
+ Combined group    11   into group     6   at level 1.7616E-04
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     6     10
+                 C06      C14      C20      C32      C17      C12      C21      C24      C26     
+ C28     
+
+------------- C L U S T E R   C Y C L E    21 -------------
+
+ Combined group    34   into group     5   at level 3.9425E-04
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     5      3
+                 C05      C43      C38     
+
+------------- C L U S T E R   C Y C L E    22 -------------
+
+ Combined group     6   into group     1   at level 6.7589E-04
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     1     12
+                 C01      C04      C06      C14      C20      C32      C17      C12      C21     
+ C24      C26      C28     
+
+------------- C L U S T E R   C Y C L E    23 -------------
+
+ Combined group    21   into group     1   at level 9.6585E-04
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     1     14
+                 C01      C04      C06      C14      C20      C32      C17      C12      C21     
+ C24      C26      C28      C22      C27     
+
+------------- C L U S T E R   C Y C L E    24 -------------
+
+ Combined group    50   into group    32   at level 1.5308E-03
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    32      2
+                 C33      C59     
+
+------------- C L U S T E R   C Y C L E    25 -------------
+
+ Combined group    15   into group     1   at level 2.7281E-03
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     1     16
+                 C01      C04      C06      C14      C20      C32      C17      C12      C21     
+ C24      C26      C28      C22      C27      C16      C25     
+
+------------- C L U S T E R   C Y C L E    26 -------------
+
+ Combined group    28   into group     5   at level 4.0618E-03
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     5      4
+                 C05      C43      C38      C29     
+
+------------- C L U S T E R   C Y C L E    27 -------------
+
+ Combined group    22   into group     9   at level 7.2824E-03
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     9      2
+                 C10      C23     
+
+------------- C L U S T E R   C Y C L E    28 -------------
+
+ Combined group    51   into group    29   at level 1.2362E-02
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    29      2
+                 C30      C70     
+
+------------- C L U S T E R   C Y C L E    29 -------------
+
+ Combined group    30   into group    14   at level 1.8517E-02
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    14      7
+                 C15      C31      C41      C45      C48      C54      C57     
+
+------------- C L U S T E R   C Y C L E    30 -------------
+
+ Combined group    54   into group    43   at level 2.6638E-02
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    43      2
+                 C47      C74     
+
+------------- C L U S T E R   C Y C L E    31 -------------
+
+ Combined group     9   into group     8   at level 3.9777E-02
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     8      4
+                 C09      C11      C10      C23     
+
+------------- C L U S T E R   C Y C L E    32 -------------
+
+ Combined group    35   into group    12   at level 5.7719E-02
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    12      2
+                 C13      C39     
+
+------------- C L U S T E R   C Y C L E    33 -------------
+
+ Combined group    32   into group     7   at level 7.8261E-02
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     7      4
+                 C08      C44      C33      C59     
+
+------------- C L U S T E R   C Y C L E    34 -------------
+
+ Combined group    45   into group    33   at level 1.0047E-01
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    33      2
+                 C35      C49     
+
+------------- C L U S T E R   C Y C L E    35 -------------
+
+ Combined group    43   into group    36   at level 1.2419E-01
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    36      3
+                 C40      C47      C74     
+
+------------- C L U S T E R   C Y C L E    36 -------------
+
+ Combined group    52   into group     2   at level 1.4818E-01
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     2      2
+                 C02      C71     
+
+------------- C L U S T E R   C Y C L E    37 -------------
+
+ Combined group    46   into group    17   at level 1.9199E-01
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    17      2
+                 C18      C50     
+
+------------- C L U S T E R   C Y C L E    38 -------------
+
+ Combined group    14   into group     5   at level 2.4670E-01
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     5     11
+                 C05      C43      C38      C29      C15      C31      C41      C45      C48     
+ C54      C57     
+
+------------- C L U S T E R   C Y C L E    39 -------------
+
+ Combined group     7   into group     3   at level 3.0431E-01
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     3      5
+                 C03      C08      C44      C33      C59     
+
+------------- C L U S T E R   C Y C L E    40 -------------
+
+ Combined group    38   into group    36   at level 3.7871E-01
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    36      4
+                 C40      C47      C74      C42     
+
+------------- C L U S T E R   C Y C L E    41 -------------
+
+ Combined group    42   into group    18   at level 4.7320E-01
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    18      2
+                 C19      C46     
+
+------------- C L U S T E R   C Y C L E    42 -------------
+
+ Combined group    12   into group     2   at level 5.6802E-01
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     2      4
+                 C02      C71      C13      C39     
+
+------------- C L U S T E R   C Y C L E    43 -------------
+
+ Combined group    36   into group    33   at level 6.8267E-01
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    33      6
+                 C35      C49      C40      C47      C74      C42     
+
+------------- C L U S T E R   C Y C L E    44 -------------
+
+ Combined group     5   into group     1   at level 8.0649E-01
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     1     27
+                 C01      C04      C06      C14      C20      C32      C17      C12      C21     
+ C24      C26      C28      C22      C27      C16      C25      C05      C43     
+ C38      C29      C15      C31      C41      C45      C48      C54      C57     
+
+------------- C L U S T E R   C Y C L E    45 -------------
+
+ Combined group     8   into group     3   at level 9.4587E-01
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     3      9
+                 C03      C08      C44      C33      C59      C09      C11      C10      C23     
+
+------------- C L U S T E R   C Y C L E    46 -------------
+
+ Combined group    33   into group     2   at level 1.2882E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     2     10
+                 C02      C71      C13      C39      C35      C49      C40      C47      C74     
+ C42     
+
+------------- C L U S T E R   C Y C L E    47 -------------
+
+ Combined group    18   into group    17   at level 1.6936E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    17      4
+                 C18      C50      C19      C46     
+
+------------- C L U S T E R   C Y C L E    48 -------------
+
+ Combined group    53   into group    47   at level 2.1936E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    47      2
+                 C53      C73     
+
+------------- C L U S T E R   C Y C L E    49 -------------
+
+ Combined group    47   into group    17   at level 2.7640E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    17      6
+                 C18      C50      C19      C46      C53      C73     
+
+------------- C L U S T E R   C Y C L E    50 -------------
+
+ Combined group     2   into group     1   at level 3.4206E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     1     37
+                 C01      C04      C06      C14      C20      C32      C17      C12      C21     
+ C24      C26      C28      C22      C27      C16      C25      C05      C43     
+ C38      C29      C15      C31      C41      C45      C48      C54      C57     
+ C02      C71      C13      C39      C35      C49      C40      C47      C74     
+ C42     
+
+------------- C L U S T E R   C Y C L E    51 -------------
+
+ Combined group    29   into group    17   at level 4.1375E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+    17      8
+                 C18      C50      C19      C46      C53      C73      C30      C70     
+
+------------- C L U S T E R   C Y C L E    52 -------------
+
+ Combined group    17   into group     3   at level 5.2599E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     3     17
+                 C03      C08      C44      C33      C59      C09      C11      C10      C23     
+ C18      C50      C19      C46      C53      C73      C30      C70     
+
+------------- C L U S T E R   C Y C L E    53 -------------
+
+ Combined group     3   into group     1   at level 6.6372E+00
+  leaving the following groups:
+        No.in
+ Group  Group   quadrats in group
+
+     1     54
+                 C01      C04      C06      C14      C20      C32      C17      C12      C21     
+ C24      C26      C28      C22      C27      C16      C25      C05      C43     
+ C38      C29      C15      C31      C41      C45      C48      C54      C57     
+ C02      C71      C13      C39      C35      C49      C40      C47      C74     
+ C42      C03      C08      C44      C33      C59      C09      C11      C10     
+ C23      C18      C50      C19      C46      C53      C73      C30      C70     
+
+
+Percent chaining =   3.85
+
+
+
+
+                         Distance (Objective Function)
+         0.000           1.659           3.319           4.978           6.637
+          |-------+-------+-------+-------+-------+-------+-------+-------+
+                         Information remaining (%)
+     100.000          75.000          50.000          25.000           0.000
+          |-------+-------+-------+-------+-------+-------+-------+-------+
+C01       |                                                               
+C04       |                                                               
+C06       |                                                               
+C14       |                                                               
+C20       |                                                               
+C32       |                                                               
+C17       |                                                               
+C12       |                                                               
+C21       |                                                               
+C24       |                                                               
+C26       |-----|                                                         
+C28       |     |                                                         
+C22       |     |                                                         
+C27       |     |                                                         
+C16       |     |                                                         
+C25       |     |------------------------|                                
+C05       |     |                        |                                
+C43       |     |                        |                                
+C38       ||    |                        |                                
+C29       ||    |                        |                                
+C15       ||----|                        |                                
+C31       ||                             |                                
+C41       ||                             |-------------------------------|
+C45       |                              |                               |
+C48       |                              |                               |
+C54       |                              |                               |
+C57       |                              |                               |
+C02       |---|                          |                               |
+C71       |   |------|                   |                               |
+C13       |---|      |                   |                               |
+C39       |          |-------------------|                               |
+C35       |----|     |                                                   |
+C49       |    |-----|                                                   |
+C40       |-|  |                                                         |
+C47       | |--|                                                         |
+C74       | |                                                            |
+C42       --|                                                            |
+C03       -|                                                             |
+C08       ||------|                                                      |
+C44       ||      |                                                      |
+C33       |       |----------------------------------------|             |
+C59       |       |                                        |             |
+C09       |       |                                        |             |
+C11       |-------|                                        |             |
+C10       |                                                |             |
+C23       |                                                |-------------|
+C18       |--------------|                                 |              
+C50       |              |---------|                       |              
+C19       ---|-----------|         |------------|          |              
+C46       ---|                     |            |          |              
+C53       --------------------|----|            |----------|              
+C73       --------------------|                 |                         
+C30       |-------------------------------------|                         
+C70       |                                                               
+
+
+************************* Cluster analysis completed *************************
+

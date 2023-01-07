@@ -1,0 +1,26 @@
+************************** Output from Graph **************************
+PC-ORD 5.0
+2022-07-15, 15:05
+
+Carran-D26: Carran bryophytes Aug 2020 NMS, one-occurence spp. removed, Domin2.6
+
+Coefficients of determination for the correlations between ordination
+distances and distances in the original n-dimensional space:
+
+            R Squared
+Axis   Increment   Cumulative
+ 1       .537        .537
+ 2       .208        .746
+ 3       .174        .919
+
+Increment and cumulative R-squared were adjusted for any lack
+of orthogonality of axes.
+
+Axis pair     r     Orthogonality,% = 100(1-r^2)
+  1 vs 2    -0.183     96.6
+  1 vs 3     0.088     99.2
+  2 vs 3    -0.170     97.1
+
+Number of entities = 54
+Number of entity pairs used in correlation = 1431
+Distance measure for ORIGINAL distance: Sorensen (Bray-Curtis)

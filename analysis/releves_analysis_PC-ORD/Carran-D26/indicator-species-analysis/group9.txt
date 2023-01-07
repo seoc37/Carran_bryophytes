@@ -1,0 +1,90 @@
+
+****************************** Indicator Values ******************************
+PC-ORD, 5.0                 
+16 Jul 2022, 23:16
+
+Indicator values calculated with method of Dufrene, M. &
+P. Legendre.  1997.  Species assemblages and indicator
+species: the need for a flexible asymmetrical approach.
+Ecological Monographs 67:345-366.
+
+
+Carran-D26: Carran bryophytes Aug 2020 indicator species analysis, group9       
+ 
+
+        Code numbers for excluded groups:      47      53
+        Groups were defined by values of: Group9  
+        Input data has:    52 quadrats by     5 species 
+
+
+RELATIVE ABUNDANCE in group, % of perfect indication
+(average abundance of a given species  in a given group of quadrats
+over the average abundance of that species  in all quadrats
+expressed as a %)
+                                Group
+                    Sequence:    1    2    3    4    5    6    7
+                  Identifier:    1    2    3   17   18   29   33
+             Number of items:   27    4    9    2    2    2    6
+    Column     Avg Max MaxGrp
+   1 Cc         14  45      1   45    9   10    3    6    3   23
+   2 Rp         14  93     29    3    0    3    0    2   93    0
+   3 Cm         14  93      3    1    0   93    0    0    0    6
+   4 Cf         14  63     17    0    6    0   63   25    0    5
+   5 Rt         14  83     18    0    0    0    0   83    0   17
+      Averages  14  75          10    3   21   13   23   19   10
+
+
+RELATIVE FREQUENCY in group, % of perfect indication
+(% of quadrats in given group where given species  is present)
+                                Group
+                    Sequence:    1    2    3    4    5    6    7
+                  Identifier:    1    2    3   17   18   29   33
+             Number of items:   27    4    9    2    2    2    6
+    Column     Avg Max MaxGrp
+   1 Cc         84 100      1  100  100   89   50   50  100  100
+   2 Rp         43 100     29   70    0   78    0   50  100    0
+   3 Cm         23 100      3   11    0  100    0    0    0   50
+   4 Cf         33 100     17    0   50   11  100   50    0   17
+   5 Rt         25 100     18    7    0    0    0  100    0   67
+      Averages  41 100          38   30   56   30   50   40   47
+
+
+INDICATOR VALUES (% of perfect indication,
+based on combining the above values for relative abundance
+and relative frequency)
+                                Group
+                    Sequence:    1    2    3    4    5    6    7
+                  Identifier:    1    2    3   17   18   29   33
+             Number of items:   27    4    9    2    2    2    6
+    Column     Avg Max MaxGrp
+   1 Cc         13  45      1   45    9    9    2    3    3   23
+   2 Rp         14  93     29    2    0    2    0    1   93    0
+   3 Cm         14  93      3    0    0   93    0    0    0    3
+   4 Cf         11  63     17    0    3    0   63   13    0    1
+   5 Rt         13  83     18    0    0    0    0   83    0   11
+      Averages  13  75           9    2   21   13   20   19    8
+
+
+MONTE CARLO test of significance of observed maximum
+indicator value for species 
+  4999 permutations.
+Random number seed:        2305
+
+----------------------------------------------------
+                                  IV from
+                       Observed  randomized
+                      Indicator    groups  
+   Column      Maxgrp Value (IV) Mean  S.Dev    p *   
+------------- -------- -------- ----- ------ -------
+   1 Cc              1    45.4   21.5   2.70  0.0002
+   2 Rp             29    92.9   35.8  16.17  0.0002
+   3 Cm              3    93.3   25.1  12.62  0.0002
+   4 Cf             17    62.8   23.8  14.25  0.0304
+   5 Rt             18    82.8   23.9  13.68  0.0078
+----------------------------------------------------
+* proportion of randomized trials with indicator value 
+  equal to or exceeding the observed indicator value.
+  p = (1 + number of runs >= observed)/(1 + number of randomized runs)
+Maxgrp = Group identifier for group with maximum observed IV
+
+************************* Indicator values finished *************************

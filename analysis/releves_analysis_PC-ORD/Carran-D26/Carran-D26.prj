@@ -1,0 +1,1016 @@
+5.0
+Description
+Carran-D26: Carran bryophytes Aug 2020 indicator species analysis, group12
+TransOption
+0
+PowerPValue
+0.
+RelPValue
+1.
+RowCol
+1
+NValue
+1
+Operator
+2
+Constant
+
+Combine
+1
+Entity
+
+RowColOutliersOption
+2
+RowColOption
+3
+OutliersOption
+4
+Outlier
+4
+OutlierDistance
+1
+Cutoff
+2.0
+PCAOption
+1
+PCAPrint
+1
+ClustrDistance
+1
+ClustrMethod
+7
+DendrogramWidth
+1
+DendrogramSpacing
+1
+ClustrInfo
+2
+DendrogramLog
+1
+PrintDistanceMatrix
+1
+AddGroup
+2
+GroupLevel
+12
+GroupName
+Group
+LevelCheck
+2
+ClustrBetaValue
+-.25
+ImportExportOption
+0
+ImportName
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\releves_env_data.csv
+ExportName
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\second-matrix-final.csv
+ImportExportWorkFile
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\work2-d26.wk1
+FileType
+5
+DCARA
+0
+SpeciesFile
+
+SummaryType
+1
+CompactDataType
+2
+CompactAggregate
+1
+SpeciesList
+1
+CompactRowName
+
+CompactColName
+
+Statistical
+1
+Verification
+1
+TreeList
+1
+Breakpoints
+1
+ImportDataType
+2
+ImportAggregate
+1
+SpeciesList
+1
+ImportRowName
+
+ImportColName
+
+TreeDataUnits
+1
+QuadratSize
+
+ExcludeTrees
+1
+TreeCutOff
+0.
+TreeDataMain
+1
+NmsDistance
+1
+Coordinates
+1
+Axes
+2
+MaxIterations
+250
+Reduction
+1
+StepLength
+.20
+WriteDistance
+1
+WriteCoordinates
+1
+ListStress
+1
+WriteConfiguration
+2
+PlotDistance
+1
+VarimaxRotation
+1
+NMSRandomOption
+1
+NMSRandomSeeds
+
+0
+NMSRandomFile
+
+NmsRandomizationTest
+1
+NmsRandomizationRuns
+249
+MRPPGroupingMatrix
+2
+MRPPVarName
+Group12
+MRPPDistance
+4
+MRPPWeight
+1
+MRPPExclude
+2
+MRPPTransform
+1
+TwinSpanCutLevel
+1
+NineUserCutLevels
+
+
+
+
+
+
+
+
+
+GroupSize
+5
+Indicators
+5
+Species
+200
+Divisions
+6
+BcordDistance
+1
+BcordEndPoint
+2
+AxisProjection
+1
+ResidualDistances
+1
+Axes
+3
+ListResidual
+0
+ListDistance
+1
+BcordMinimizing
+1
+BcordNSEPA
+0
+BcordNonSubjective
+2
+DcaDownWeight
+1
+DcaRescale
+2
+DcaThreshold
+0.
+DcaSegments
+26
+RaDownWeight
+1
+MultiplyType
+1
+Normalize
+2
+Divide
+2
+CcaScaledBy
+1
+CcaScalingScores
+2
+CcaScoreGraph
+1
+CcaCorr
+2
+CcaHypothesis
+1
+CcaRandomOption
+1
+CcaRandomSeeds
+
+0
+CcaRandomizationTest
+1
+CcaRandomizationRuns
+999
+SpeciesListsAggregate
+1
+SpeciesNumbers
+2
+SpeciesNames
+1
+SpeciesFullNames
+1
+SpeciesAbundanceValues
+1
+SpeciesAggregateAverages
+2
+SpeciesAggregateCounts
+1
+SpeciesAggregatePercentages
+1
+SpeciesBreakDown
+1
+IndicatorRandomOption
+2
+IndicatorRandomSeeds
+2305
+0
+IndicatorRandomizationTest
+2
+IndicatorRandomizationRuns
+4999
+MainMantelDistance
+1
+MantelMainMatrix
+1
+MantelSecondMatrix
+1
+MantelListFirst
+1
+MantelListSecond
+1
+MantelRandomizationTest
+1
+MantelRandomizationRuns
+999
+MantelRandomOption
+1
+MantelRandomSeeds
+
+0
+CalibrationDataFile
+
+CalibrationScoresFile
+
+Method
+1
+Flag
+1
+Limit
+5.
+UserFlag
+
+Intermediate
+1
+BMRPPDistance
+4
+BMRPPAverage
+1
+BMRPPMedian
+2
+BMRPPVarName
+
+BcordGraphCol
+1
+NMSGraphCol
+1
+PCAGraphCol
+2
+NMSRealRuns
+50
+NMSStable
+0.00001
+NMSLastN
+15
+NMSStepDown
+2
+NMSLogList
+2
+NMSStress
+2
+NMSSpeed
+3
+NMSAutopilot
+2
+SecondMantelDistance
+1
+WriteMantelList
+1
+ImpDbsMethod
+1
+ImpDbsFirstLine
+2
+ImpDbsRows
+
+ImpDbsCols
+
+ImpDbsTab
+2
+ImpDbsComma
+2
+ImpDbsSpace
+2
+ImpDbsSemicolon
+2
+ImpDbsDoubleQuotes
+2
+ImpDbsSingleQuotes
+1
+ExpDbsNumbers
+2
+ExpDbsDelimiter
+1
+ExpDbsQuotedStrings
+2
+ExpDbsOmitZeros
+2
+SpeciesAreaDistance
+1
+ModifyOption
+1
+ClusterTwoWay
+1
+CrudeDen
+2
+ColumnRel
+1
+WriteTo
+2
+IncludePCORDHeader
+2
+SpreadsheetFileType
+1
+WriteSpreadsheetFile
+
+DistanceMatrixFormat
+1
+DistanceCorrelation
+1
+Distance
+1
+TwoWayMainFileAge
+
+PCARandomizationTest
+1
+PcaRandomOption
+1
+PcaRandomSeeds
+
+0
+PcaRandomizationRuns
+999
+DistributionVariable
+
+DistributionType
+1
+LognormalMethod
+1
+LognormalConstant
+1.
+CurveSteps
+100
+SimpleOrStratified
+1
+RowsSimple
+
+RowsStatified
+
+StratificationVariable
+
+PerMANOVADesign
+1
+PerMANOVADistance
+1
+PerMANOVAPairwise
+1
+PerMANOVAFactor1
+
+PerMANOVAFactor2
+
+PerMANOVAFactor3
+
+PerMANOVARandomOption
+1
+PerMANOVARandomSeeds
+
+PerMANOVARandomizationTest
+2
+PerMANOVARandomizationRuns
+4999
+PerMANOVAWriteFStatistics
+1
+PerMANOVACountUniqueValues
+1
+ScoresResultsFile
+2
+ScoresGraphFile
+1
+ScoresTextFile
+1
+ScoresSpreadsheet
+1
+SpreadsheetHeaderRows
+2
+ScoresGraphFileName
+
+ScoresTextFileName
+
+ScoresSpreadsheetFileName
+
+MainDistanceMatrix
+1
+MainDistancesSquared
+1
+AppendMatrixFile
+
+ExecutablePath
+C:\Program Files (x86)\PC Ord5\
+SummaryBreakDown
+1
+FixedPercent
+15.
+MRPPPairwise
+1
+ExpSingleLine
+1
+
+[Main Window]
+File=C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\work1-d26.wk1
+[Second Window]
+File=C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\work2-d26.wk1
+[Row Window]
+File=C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\graphrow-d26.gph
+[Col Window]
+File=C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\graphcol-d26.gph
+[Result Window]
+File=C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\indicator-species-analysis\
+[Graph Options]
+Variance Distance=0
+Flexibility=3
+EnvelopeStdDev=2.0
+Frame Type=2
+Tick Type=1
+Label Points Row=1
+Label Points Col=0
+Plot Points Row=1
+Plot Points Col=0
+Symbols Row=3
+Symbols Col=355
+Color Symbols Row=4
+Color Symbols Col=4
+Overlay Symbol Size=0
+Graph Title=1
+Axis Titles=1
+Tick Marks=1
+Tick Labels=1
+Label Every Other Tick=0
+Overlay Tick Marks=1
+Show Quantitative=1
+Envelope=1
+Regression=1
+Print BW=0
+Save BW=0
+Copy BW=0
+Hide ToolBar=0
+Show Hints=1
+Color Code=0
+Symbol Code=0
+Show Legend=1
+Show Legend Frame=1
+Transparent Legends=0
+Legend Symbol Order 0=0
+Legend Symbol Order 1=1
+Legend Symbol Order 2=2
+Legend Symbol Order 3=3
+Legend Symbol Order 4=4
+Legend Symbol Order 5=5
+Legend Symbol Order 6=6
+Legend Symbol Order 7=7
+Legend Symbol Order 8=8
+Legend Symbol Order 9=9
+Legend Symbol Order 10=10
+Legend Symbol Order 11=11
+Legend Symbol Order 12=12
+Legend Symbol Order 13=13
+Legend Symbol Order 14=14
+Legend Symbol Order 15=15
+Legend Symbol Order 16=16
+Legend Symbol Order 17=17
+Legend Symbol Order 18=18
+Legend Symbol Order 19=19
+Legend Symbol Order 20=20
+Legend Symbol Order 21=21
+Legend Symbol Order 22=22
+Legend Symbol Order 23=23
+Legend Symbol Order 24=24
+Legend Symbol Order 25=25
+Legend Symbol Order 26=26
+Legend Symbol Order 27=27
+Legend Symbol Order 28=28
+Legend Symbol Order 29=29
+Legend Symbol Order 30=30
+Legend Symbol Order 31=31
+Legend Color Order 0=0
+Legend Color Order 1=1
+Legend Color Order 2=2
+Legend Color Order 3=3
+Legend Color Order 4=4
+Legend Color Order 5=11
+Legend Color Order 6=6
+Legend Color Order 7=7
+Legend Color Order 8=8
+Legend Color Order 9=9
+Legend Color Order 10=10
+Legend Color Order 11=11
+Legend Color Order 12=12
+Legend Color Order 13=13
+Legend Color Order 14=14
+Legend Color Order 15=15
+Legend Color Order 16=16
+Legend Color Order 17=17
+Legend Color Order 18=18
+Legend Color Order 19=19
+Legend Color Order 20=20
+Legend Color Order 21=21
+Legend Color Order 22=22
+Legend Color Order 23=23
+Legend Color Order 24=24
+Legend Color Order 25=25
+Legend Color Order 26=26
+Legend Color Order 27=27
+Legend Color Order 28=28
+Legend Color Order 29=29
+Legend Color Order 30=30
+Legend Color Order 31=31
+Color Code Vectors=0
+Successional Arrowheads=1
+Successional Weight Arrowheads=0
+Joint Plot Arrowheads=0
+Joint Plot Weight Arrowheads=0
+Column Lines Arrowheads=0
+Column Lines Weight Arrowheads=0
+Weight Frame=2
+Weight Ticks=2
+Weight Legend Frame=1
+Weight Regression Lines=1
+Weight Envelope Lines=1
+Weight Vectors=1
+Weight Grids=1
+Weight Joint Plots=2
+Weight Column Lines=1
+Color Regression Lines=0
+Color Envelope Lines=4
+Color Vectors=4
+Color Grids=4
+Color Joint Plots=0
+Color Column Lines=4
+Graph Color=0
+Labels From=0
+Quadrant Labeling=1
+Continuous Rotation Degrees=5
+Joint Plot Labels=1
+Axis Scaling=0
+Variable Cutoff=.200
+Vector Scale=100
+Graph Title Name=Arial
+Graph Title Size=16
+Graph Title Style=0
+Row Labels Name=Arial Narrow
+Row Labels Size=12
+Row Labels Style=0
+Column Labels Name=Arial Narrow
+Column Labels Size=12
+Column Labels Style=0
+Axis Titles Name=Arial
+Axis Titles Size=14
+Axis Titles Style=0
+Joint Plot Name=Arial
+Joint Plot Size=10
+Joint Plot Style=0
+Tick Labels Name=Arial
+Tick Labels Size=10
+Tick Labels Style=0
+Correlations Labels Name=Arial
+Correlations Labels Size=10
+Correlations Labels Style=0
+Legend Labels Name=Arial
+Legend Labels Size=12
+Legend Labels Style=0
+[Ordination 3D Options]
+Plot Points Row=1
+Plot Points Col=0
+Color Symbols Row=0
+Color Symbols Col=4
+Graph Title=1
+Axis Titles=1
+Tick Marks=1
+Tick Labels=1
+Label Every Other Tick=1
+Print BW=0
+Save BW=0
+Copy BW=0
+Color Code=1
+Show Legend=1
+Show Legend Frame=1
+Transparent Legends=0
+Show Hints=1
+Weight Symbols=1
+Weight Frame=1
+Weight Legend Frame=1
+Weight Joint Plots=2
+Weight Column Lines=1
+Tick Type=1
+Color Frame=31
+Color Joint Plots=0
+Color Column Lines=4
+ThreeD Color=0
+Base Line=1
+Z Axis=1
+Cube Frame=1
+Backdrop=0
+Rotation Delay=2
+Continuous Labeling=1
+Label One Axis Side=1
+Adjustable Labels=1
+3D Dials=1
+Symbol Row=0
+Symbol Col=4
+Symbol Row Size=10
+Symbol Col Size=10
+Joint Plot Arrow Symbol=0
+Column Lines Arrow Symbol=0
+Joint Plot Arrow Size=5
+Column Lines Arrrow Size=5
+Joint Plot Arrowheads=0
+Column Lines Arrowheads=0
+Joint Plot Labels=1
+Graph Title Name=Arial
+Graph Title Size=16
+Graph Title Style=0
+Symbol Labels Name=Arial
+Symbol Labels Size=10
+Symbol Labels Style=0
+Axis Titles Name=Arial
+Axis Titles Size=14
+Axis Titles Style=0
+Joint Plot Labels Name=Arial
+Joint Plot Labels Size=10
+Joint Plot Labels Style=0
+Tick Labels Name=Arial
+Tick Labels Size=10
+Tick Labels Style=0
+Legend Labels Name=Arial
+Legend Labels Size=12
+Legend Labels Style=0
+[Delete Filters]
+Compare Value=0
+Column Name=
+Logic=0
+[Scatter Matrix Options]
+Symbols Scatter Matrix=193
+Color Symbols=4
+Graph Title=1
+Print BW=0
+Save BW=0
+Copy BW=0
+Hide ToolBar=0
+Weight Frame=2
+Graph Color=0
+X Jittering Percent=5
+Y Jittering Percent=5
+Graph Title Name=Arial
+Graph Title Size=16
+Graph Title Style=0
+Scatter Matrix Labels Name=Small Fonts
+Scatter Matrix Labels Size=6
+Scatter Matrix Labels Style=0
+[Scatterplot Options]
+Frame Type=0
+Tick Type=1
+Label Points Row=1
+Plot Points Row=1
+Symbols Row=3
+Color Symbols Row=4
+Graph Title=1
+Axis Titles=1
+Tick Marks=1
+Tick Labels=1
+Label Every Other Tick=0
+Print BW=0
+Save BW=0
+Copy BW=0
+Hide ToolBar=0
+Show Hints=1
+Color Code=0
+Symbol Code=0
+Show Legend=0
+Show Legend Frame=1
+Transparent Legends=0
+Weight Frame=2
+Weight Ticks=2
+Weight Legend Frame=1
+Graph Color=0
+Labels From=0
+Quadrant Labeling=0
+X Jittering Percent=5
+Y Jittering Percent=5
+Graph Title Name=Arial
+Graph Title Size=16
+Graph Title Style=0
+Row Labels Name=Small Fonts
+Row Labels Size=6
+Row Labels Style=0
+Axis Titles Name=Arial
+Axis Titles Size=14
+Axis Titles Style=0
+Tick Labels Name=Arial
+Tick Labels Size=10
+Tick Labels Style=0
+Legend Labels Name=Arial
+Legend Labels Size=12
+Legend Labels Style=0
+[Distributions Plot Options]
+Frame Type=0
+Tick Type=1
+Symbols=225
+Color Symbols=4
+Graph Title=1
+Axis Titles=1
+Tick Marks=0
+Tick Labels=0
+Label Every Other Tick=1
+Print BW=0
+Save BW=0
+Copy BW=0
+Hide ToolBar=0
+Show Hints=1
+Distributions Points=1
+Distributions Labels=0
+Distributions Lines=1
+Color Code=1
+Symbol Code=1
+Show Legend=1
+Show Legend Frame=1
+Transparent Legends=0
+Weight Frame=2
+Weight Ticks=2
+Weight Lines=1
+Weight Legend Frame=1
+Color Distributions Lines=4
+Graph Color=0
+Graph Title Name=Arial
+Graph Title Size=16
+Graph Title Style=0
+Row Labels Name=Small Fonts
+Row Labels Size=6
+Row Labels Style=0
+Axis Titles Name=Arial
+Axis Titles Size=14
+Axis Titles Style=0
+Tick Labels Name=Arial
+Tick Labels Size=10
+Tick Labels Style=0
+Legend Labels Name=Arial
+Legend Labels Size=12
+Legend Labels Style=0
+[Dendrogram Options]
+Cluster Title=1
+Axis Titles=1
+Distance Scale=1
+Information Scale=1
+Print BW=0
+Save BW=0
+Copy BW=0
+Color Code=1
+Symbol Code=0
+Show Legend=1
+Show Legend Frame=1
+Transparent Legends=0
+Show Hints=1
+Legend Orientation=1
+Row Labels=1
+Scale Line=2
+Weight Ticks=2
+Tree Lines=1
+Weight Legend Frame=1
+Weight Boxes=2
+Graph Color=0
+Line Spacing=10
+Dendrogram Length Rows=300
+Dendrogram Length Cols=300
+Matrix Element Symbol=0
+Matrix Coding=0
+Matrix Coding Color=0
+Show Matrix Coding Legend=1
+Distance Scale Two Way=0
+Information Scale Two Way=1
+Box Draw Color=255
+Printing Pages=1
+Cluster Title Name=Arial
+Cluster Title Size=16
+Cluster Title Style=0
+Axis Titles Name=Arial
+Axis Titles Size=16
+Axis Titles Style=0
+Row Labels Name=Arial
+Row Labels Size=8
+Row Labels Style=0
+Tick Labels Name=Arial
+Tick Labels Size=10
+Tick Labels Style=0
+Legend Labels Name=Arial
+Legend Labels Size=8
+Legend Labels Style=0
+[Species Curves Options]
+Species Title=1
+Species Axis Title=1
+Distance Axis Title=1
+Num Subplots Axis Title=1
+Species Plot=1
+Distance Plot=1
+Species Confidence Plot=1
+Distance Confidence Plot=1
+Tick Marks=1
+Tick Labels=1
+Label Every Other Tick=1
+Show Legend=1
+Show Legend Frame=1
+Transparent Legends=0
+Print BW=0
+Save BW=0
+Copy BW=0
+Graph Color=0
+Species Style=0
+Distance Style=0
+Species Confidence Style=2
+Distance Confidence Style=2
+Tick Type=1
+Weight Frame=2
+Weight Ticks=2
+Weight Species Line=1
+Weight Distance Line=1
+Weight Species Confidence Line=1
+Weight Distance Confidence Line=1
+Weight Legend Frame=1
+Species Color=30
+Distance Color=4
+Species Confidence Color=0
+Distance Confidence Color=2
+Species Title Name=Arial
+Species Title Size=16
+Species Title Style=0
+Axis Titles Name=Arial
+Axis Titles Size=12
+Axis Titles Style=0
+Tick Labels Name=Arial
+Tick Labels Size=10
+Tick Labels Style=0
+Legend Labels Name=Arial
+Legend Labels Size=8
+Legend Labels Style=0
+[Stress Options]
+Stress Title=1
+Stress Axis Title=1
+Dimensions Axis Title=1
+Randomized Lines Plot=1
+Real Data Lines Plot=1
+Randomized Symbols Plot=1
+Real Data Symbols Plot=1
+Tick Marks=1
+Tick Labels=1
+Label Every Other Tick=1
+Show Legend=1
+Show Legend Frame=1
+Transparent Legends=0
+Print BW=0
+Save BW=0
+Copy BW=0
+Graph Color=0
+Randomized Style=0
+Real Data Style=0
+Tick Type=1
+Weight Frame=2
+Weight Ticks=2
+Weight Randomized Line=1
+Weight Real Data Line=1
+Weight Legend Frame=1
+Randomized Symbol=225
+Real Data Symbol=225
+Randomized Line Color=30
+Real Data Line Color=4
+Randomized Symbol Color=0
+Real Data Symbol Color=2
+Stress Title Name=Arial
+Stress Title Size=16
+Stress Title Style=0
+Axis Titles Name=Arial
+Axis Titles Size=12
+Axis Titles Style=0
+Tick Labels Name=Arial
+Tick Labels Size=10
+Tick Labels Style=0
+Legend Labels Name=Arial
+Legend Labels Size=8
+Legend Labels Style=0
+[Main History]
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\work1-d26.wk1=H0
+[Second History]
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\work2-d26.wk1=H0
+[Row History]
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\graphrow-d26.gph=H0
+[Col History]
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\graphcol-d26.gph=H0
+[Result History]
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\indicator-species-analysis\group12.txt=H0
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\indicator-species-analysis\group11.txt=H1
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\indicator-species-analysis\group10.txt=H2
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\indicator-species-analysis\group9.txt=H3
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\indicator-species-analysis\group8.txt=H4
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\indicator-species-analysis\group7.txt=H5
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\indicator-species-analysis\group6.txt=H6
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\indicator-species-analysis\group5.txt=H7
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\indicator-species-analysis\group4.txt=H8
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\indicator-species-analysis\group2.txt=H9
+[Dendrogram Window]
+File=C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\dendrograms\group2.den
+[Dendrogram Two Way Window]
+File=C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\2way_dendrograms\group2.twd
+[Dendrogram History]
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\dendrograms\group2.den=H0
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\dendrograms\group12.den=H1
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\dendrograms\group11.den=H2
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\dendrograms\group10.den=H3
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\dendrograms\group9.den=H4
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\dendrograms\group8.den=H5
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\dendrograms\group7.den=H6
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\dendrograms\group6.den=H7
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\dendrograms\group5.den=H8
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\dendrograms\group4.den=H9
+[Dendrogram Two Way History]
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\2way_dendrograms\group2.twd=H0
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\2way_dendrograms\group12.twd=H1
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\2way_dendrograms\group11.twd=H2
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\2way_dendrograms\group10.twd=H3
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\2way_dendrograms\group9.twd=H4
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\2way_dendrograms\group8.twd=H5
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\2way_dendrograms\group7.twd=H6
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\2way_dendrograms\group6.twd=H7
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\2way_dendrograms\group5.twd=H8
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\2way_dendrograms\group4.twd=H9
+[Species-area Curves Window]
+File=
+[Stress Window]
+File=C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\nms-scree-data.txt
+[Stress History]
+C:\Users\seamus\TCD\Project\releves_analysis_PC-ORD\Carran-D26\plots\nms-scree-graph.wmf=H0
+[Vectors]
+Translation=0
+Translate All Axes=1
+[Envelope Curves]
+Fix FileName=
+CSV FileName=
+File Format=1
+MM=0
+SM=0
+MA1=0
+SA1=0
+MA2=0
+SA2=0
+MA3=0
+SA3=0
+[Group Variables]
+Ordination=Water
+Scatterplot=

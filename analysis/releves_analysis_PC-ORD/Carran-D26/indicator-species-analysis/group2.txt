@@ -1,0 +1,88 @@
+
+****************************** Indicator Values ******************************
+PC-ORD, 5.0                 
+16 Jul 2022, 23:09
+
+Indicator values calculated with method of Dufrene, M. &
+P. Legendre.  1997.  Species assemblages and indicator
+species: the need for a flexible asymmetrical approach.
+Ecological Monographs 67:345-366.
+
+
+Carran-D26: Carran bryophytes Aug 2020 indicator species analysis, group2       
+
+        Groups were defined by values of: Group2  
+        Input data has:    54 quadrats by     5 species 
+
+
+RELATIVE ABUNDANCE in group, % of perfect indication
+(average abundance of a given species  in a given group of quadrats
+over the average abundance of that species  in all quadrats
+expressed as a %)
+                                Group
+                    Sequence:    1    2
+                  Identifier:    1    3
+             Number of items:   37   17
+    Column     Avg Max MaxGrp
+   1 Cc         50  85      1   85   15
+   2 Rp         50  86      3   14   86
+   3 Cm         50  97      3    3   97
+   4 Cf         50  88      3   12   88
+   5 Rt         50  77      3   23   77
+      Averages  50  86          27   73
+
+
+RELATIVE FREQUENCY in group, % of perfect indication
+(% of quadrats in given group where given species  is present)
+                                Group
+                    Sequence:    1    2
+                  Identifier:    1    3
+             Number of items:   37   17
+    Column     Avg Max MaxGrp
+   1 Cc         88 100      1  100   76
+   2 Rp         55  59      3   51   59
+   3 Cm         38  59      3   16   59
+   4 Cf         19  29      3    8   29
+   5 Rt         14  16      1   16   12
+      Averages  43  53          38   47
+
+
+INDICATOR VALUES (% of perfect indication,
+based on combining the above values for relative abundance
+and relative frequency)
+                                Group
+                    Sequence:    1    2
+                  Identifier:    1    3
+             Number of items:   37   17
+    Column     Avg Max MaxGrp
+   1 Cc         48  85      1   85   12
+   2 Rp         29  51      3    7   51
+   3 Cm         29  57      3    0   57
+   4 Cf         13  26      3    1   26
+   5 Rt          6   9      3    4    9
+      Averages  25  45          19   31
+
+
+MONTE CARLO test of significance of observed maximum
+indicator value for species 
+  4999 permutations.
+Random number seed:        2305
+
+----------------------------------------------------
+                                  IV from
+                       Observed  randomized
+                      Indicator    groups  
+   Column      Maxgrp Value (IV) Mean  S.Dev    p *   
+------------- -------- -------- ----- ------ -------
+   1 Cc              1    84.7   51.2   3.78  0.0002
+   2 Rp              3    50.5   40.0   8.43  0.1056
+   3 Cm              3    57.1   21.4   5.64  0.0002
+   4 Cf              3    25.8   13.0   4.73  0.0172
+   5 Rt              3     9.1   13.1   4.82  0.8014
+----------------------------------------------------
+* proportion of randomized trials with indicator value 
+  equal to or exceeding the observed indicator value.
+  p = (1 + number of runs >= observed)/(1 + number of randomized runs)
+Maxgrp = Group identifier for group with maximum observed IV
+
+************************* Indicator values finished *************************
