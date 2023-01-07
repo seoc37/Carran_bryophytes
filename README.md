@@ -1,9 +1,9 @@
 # Carran Bryophytes
 Data and documents from Carran bryophytes MSc project, Trinity College Dublin, 2020
 
-This can be accessed through GitHub pages as
+A web homepage is at 
 https://seoc37.github.io/Carran_bryophytes
-
+(on GitHub pages).
 
 Contents of this directory are:
 
