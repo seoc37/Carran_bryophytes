@@ -7,8 +7,8 @@ https://seoc37.github.io/Carran_bryophytes
 
 Contents of this directory are:
 
-| Name | Contents |
-|-------------------| |
+|Name|Contents|
+|:-------------------|:---------------------------------------------------------------------|
 | report | Maps, photos and plots at high resolution, linked from the PDF thesis document. |
 | herbarium_packets | Word and ODF files for the herbarium sample herbarium_packets |
 | fieldwork | Word and ODF of the field sampling form used |
