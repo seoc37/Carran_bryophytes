@@ -14,5 +14,4 @@ This directory contains the data and outputs from PC-ORD for the analysis of bry
 | relevés_data_consolidated_with_analysis.ods | As above in ODS format |
 | relevés_data_consolidated_with_analysis_D26.csv | Analysis data with Doimin converted to Domin 2.6 for PC-ORD |
 | relevés_data_consolidated_with_analysis_forQGIS.ods | Relevés data for import to QGIS |
-
 | relevés_group4.ods | Relevés data with membership of the 4 groups and showing Domin for each species, vegetation community, and species counts per relevé |
