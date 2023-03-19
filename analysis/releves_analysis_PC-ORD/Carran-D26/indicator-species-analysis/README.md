@@ -5,10 +5,10 @@ This directory contains the data and results for the indicator species analysis 
 |File/Directory|Contents|
 |:-------------------|:---------------------------------------------------------------------|
 | ISA.ods | ISA calculations for the different number of groups, based on PC-ORD outputs (2 to 12 groups) |
-| isa.csv | Groups, p values and number of significant species |
+| isa.csv | Groups, p values and number of significant species for plotting |
 | isa.gnuplot | GNUplot code to plot the ISA graph from isa.csv | 
 | isa.pdf | PDF of the ISA graph from GNUplot |
-| summary-values.txt  | |
+| summary-values.txt  | PC-ORD output file corresponding to isa.csv |
 | isa.dat | PC-ORD output file |
 | group2.txt | PC-ORD output file, 2 groups |
 | group3.txt | PC-ORD output file, 3 groups |
